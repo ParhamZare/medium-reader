@@ -8,7 +8,7 @@ The Medium Reader Chrome Extension is a simple extension that allows you to read
 
 ## Features
 
-- Right click on Link on your medium article and press Read Article.
+- Right-click on a link in your Medium articles, press 'Read Article,' and enjoy reading the article without limits.
 
 ## Installation
 
