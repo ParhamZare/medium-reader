@@ -1,6 +1,6 @@
 # Medium Reader Chrome Extension
 
-![Extension Icon](images/icon48.png)
+![Extension Icon](images/icon32.png)
 
 ## Description
 
